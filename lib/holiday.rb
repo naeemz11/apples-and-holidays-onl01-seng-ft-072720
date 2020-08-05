@@ -47,7 +47,7 @@ def add_new_holiday_with_supplies(holiday_hash, season, holiday_name, supply_arr
   }
   
   holiday_hash[:winter] = {
-    valentines_day: [""]
+    valentines_day: ["Cupid Cut-Out", "Candy Hearts"]
   }
   
 holiday_hash
