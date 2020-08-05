@@ -70,6 +70,7 @@ holiday_supplies.each do |season, data|
       puts "  #{str_holiday}: #{supply.join(", ")}"
     end
   end 
+  holiday_hash
 end 
 
 def all_holidays_with_bbq(holiday_hash)
